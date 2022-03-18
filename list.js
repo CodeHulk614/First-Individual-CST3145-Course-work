@@ -44,5 +44,13 @@ let products = [
       "availableInventory": 25,
       "rating": 4
     }
+    {
+      "id": 1006,
+      "title": "Mathematics",
+      "description": "Become a Math pro.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1647346797478-557f63a779df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3NXx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60-pointer.jpg",
+      "availableInventory": 25,
+      "rati
   ]
   
